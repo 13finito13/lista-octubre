@@ -1,0 +1,78 @@
+#EXTM3U
+
+
+#EXTINF:-1 ,NACIONAL GEOGRAPHIC CHANNEL
+http://190.131.228.59:8000/play/a0j9/index.m3u8
+
+#EXTINF:-1 ,NAT GEO OP2
+http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4097
+
+#EXTINF:-1 ,ANIMAL PLANET
+http://kaoztv.com:8080/qtvbox/w6kqBNLz48yf/903.ts
+
+#EXTINF:-1 ,ANIMAL PLANET OP2
+http://190.131.228.59:8000/play/a0rq/index.m3u8
+
+#EXTINF:-1 ,HISTORY
+http://tv.teleclub.xyz/stream/Cultura/HISTORY/index.m3u8
+
+#EXTINF:-1 ,HISTORY MX
+http://disfruta.net:80/tvlatvgo152728e/XfnGyhSif8/2387
+
+#EXTINF:-1 ,HISTORY PREMIUM
+http://190.149.66.90:16000/play/a01c/index.m3u8
+
+#EXTINF:-1 ,H21
+
+http://tv.teleclub.xyz/stream/Cultura/H2/index.m3u8
+
+#EXTINF:-1 ,H2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/122
+
+#EXTINF:-1 ,H2 OP2
+http://190.149.66.90:16000/play/a02c/index.m3u8
+
+#EXTINF:-1 ,DISCOVERY CHANNEL MX
+http://190.149.66.90:16000/play/a051/index.m3u8
+
+#EXTINF:-1 ,DISCOVERY CHANNEL OP2
+http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4069
+
+#EXTINF:-1 ,DISCOVERY SCIENCE
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/63943
+
+#EXTINF:-1 ,DISCOVERY H&H
+http://190.131.228.59:8000/play/a0re/index.m3u8
+
+#EXTINF:-1 ,DISCOVERY H&H HD
+http://168.194.171.33:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 ,DISCOVERY TURBO
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/10296
+
+#EXTINF:-1 ,DISCOVERY TURBO OP2
+http://190.131.228.59:8000/play/a04t/index.m3u8
+
+#EXTINF:-1 ,DISCOVERY WORLD
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/10299
+
+#EXTINF:-1 ,DISCOVERY WORLD OP2
+http://190.83.119.67:8000/play/a0tc/index.m3u8
+
+#EXTINF:-1 ,DISCOVERY ID
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/10317
+
+#EXTINF:-1 ,DISCOVERY ID OP2
+http://190.83.119.67:8000/play/a0tf/index.m3u8
+
+#EXTINF:-1 ,DISCOVERY THEATER
+http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4119
+
+#EXTINF:-1 ,DISCOVERY THEATER OP2
+http://190.61.102.67:8000/play/a061
+
+#EXTINF:-1 ,DISCOVERY TLC
+http://190.131.228.59:8000/play/a062/index.m3u8
+
+#EXTINF:-1 ,DISCOVERY TLC OP2
+http://168.194.171.33:8000/play/a01h/index.m3u8
